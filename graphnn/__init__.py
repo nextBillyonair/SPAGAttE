@@ -12,3 +12,4 @@ from .node_transformer import PositionalEncoding, NodeTransformer, TransformerNe
 from .transformer import Transformer
 from .multihead_attention import MultiheadAttention
 from .residual import Residual
+from .pairwise import PairwiseBilinear, PairwiseDot, PairwiseDistance
