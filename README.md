@@ -9,4 +9,4 @@ http://127.0.0.1:3000/?input_type=title
 
 Source Code, presentation, notebooks, trained models
 
-Demo Video:
+Demo Video: https://vimeo.com/394545958
